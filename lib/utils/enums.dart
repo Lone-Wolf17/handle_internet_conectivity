@@ -1,0 +1,1 @@
+enum SnackBarType {positive, negative}
